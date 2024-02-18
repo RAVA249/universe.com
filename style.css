@@ -1,0 +1,139 @@
+.hero{
+    background-image: url("pexels_videos_2611250\ \(2160p\).mp4");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+.sooo{
+ 
+    margin-left: auto;
+    margin-top: 120px;
+    inline-size: auto;
+
+    
+  
+}
+img{
+    max-width: 100%;
+    max-height: 100%;
+}
+.nono{
+    background-color: rgb(64, 1, 54);
+   margin-top: 300px;
+    opacity: 80%;
+
+    
+    
+    
+}
+  
+span{
+    background: rgb(217,0,0);
+    background: linear-gradient(90deg, rgba(217,0,0,1) 35%, rgba(255,98,0,1) 100%);
+    color: transparent;
+    background-clip: text;
+}
+
+.btaw{
+    background: rgb(217,0,0);
+    background: linear-gradient(90deg, rgba(217,0,0,1) 35%, rgba(255,98,0,1) 100%);
+    border-color: transparent;
+   
+    margin-top: 20px;
+}
+.menu{
+    background: rgb(0,0,0);
+background: linear-gradient(90deg, rgba(0,0,0,1) 59%, rgba(56,41,69,1) 100%);
+}
+.bttaw{
+    background: rgb(217,0,0);
+    background: linear-gradient(90deg, rgba(217,0,0,1) 35%, rgba(255,98,0,1) 100%);
+
+}
+.solar{
+    font-size: large;
+    color: white;
+    margin-top: 30px;
+}
+.bogy{
+
+    padding-left: 50px;
+
+
+    background-color: rgb(5, 15, 219);
+    color:#000;
+}
+.uni{
+    background: rgb(121,9,118);
+    background: linear-gradient(90deg, rgba(121,9,118,1) 42%, rgba(0,212,255,1) 100%);
+    color: transparent;
+    background-clip: text;
+}
+
+sp{
+    background: rgb(121,9,118);
+background: linear-gradient(90deg, rgba(121,9,118,1) 42%, rgba(0,212,255,1) 100%);
+color: transparent;
+background-clip: text;
+}
+.Mercury{
+    background: rgb(122,122,119);
+background: linear-gradient(90deg, rgba(122,122,119,1) 59%, rgba(0,0,0,1) 100%);
+color: white;
+}
+.Mercuryw{
+    background-color: #000;
+    color: white;
+}
+.Venus{
+    background: rgb(179,106,3);
+background: linear-gradient(90deg, rgba(179,106,3,1) 59%, rgba(0,0,0,1) 100%);
+color: white;
+}
+.earth{
+    background: rgb(143,223,238);
+    background: linear-gradient(90deg, rgba(143,223,238,1) 59%, rgba(0,0,0,1) 100%);
+color: white;
+}
+.mars{
+    background: rgb(244,98,45);
+background: linear-gradient(90deg, rgba(244,98,45,1) 59%, rgba(0,0,0,1) 100%);
+color: white;
+}
+.jupi{
+    background: rgb(236,195,141);
+background: linear-gradient(90deg, rgba(236,195,141,1) 59%, rgba(0,0,0,1) 100%);
+color: white;
+}
+.sat{
+    background: rgb(197,247,180);
+background: linear-gradient(90deg, rgba(197,247,180,1) 59%, rgba(0,0,0,1) 100%);
+color: white;
+}
+.ura{
+    background: rgb(214,236,237);
+background: linear-gradient(90deg, rgba(214,236,237,1) 59%, rgba(0,0,0,1) 100%);
+  
+
+}
+.nep{
+    background: rgb(12,0,255);
+background: linear-gradient(90deg, rgba(12,0,255,1) 59%, rgba(0,0,0,1) 100%);
+    color: white;
+}
+.plu{
+    background: rgb(164,167,134);
+background: linear-gradient(90deg, rgba(164,167,134,1) 59%, rgba(0,0,0,1) 100%);
+}
+.bobo{
+    position:absolute;
+    right: 0;
+    bottom: 0;
+    z-index: -1;
+}
+@media(max-aspect-ratio:16/9){
+    .bobo{
+        width: auto;
+        height: auto;
+    }
+}
